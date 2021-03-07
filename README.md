@@ -14,9 +14,8 @@
 - 30回も超えたし、お試し的に外部公開
 - 何か懸念事項が生じたら中止します
 
-## NeWorkを使用
+## NeWorkを使用 [招待リンク](https://nework.app/invitations/01F05ZS95R5D34SVK2RPVWSKV2)
 
-- [招待リンク](https://nework.app/invitations/01F05ZS95R5D34SVK2RPVWSKV2)
 - 聞き耳参加で聞いて下されば幸いです
 
 ###  お願い・tips
