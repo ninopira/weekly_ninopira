@@ -18,6 +18,9 @@
 
 - 聞き耳参加で聞いて下されば幸いです
 
+## ハッシュタグ
+[#ninopiradio](https://twitter.com/hashtag/ninopiradio?src=hashtag_click)
+
 ###  お願い・tips
 
 聞き耳参加をお願いします(顔が映ったり、音声が入ったりしない便利機能)
