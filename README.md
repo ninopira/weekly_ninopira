@@ -38,4 +38,5 @@
 [Issues](https://github.com/ninopira/weekly_ninopira/issues)に紹介したコンテンツがまとまっております
 
 - [20210308](https://github.com/ninopira/weekly_ninopira/issues/1)
+- [20210315](https://github.com/ninopira/weekly_ninopira/issues/2)
 
