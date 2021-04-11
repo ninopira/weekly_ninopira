@@ -38,4 +38,5 @@
 - [20210315](https://github.com/ninopira/weekly_ninopira/issues/2)
 - [20210322](https://github.com/ninopira/weekly_ninopira/issues/3)
 - [20210329](https://github.com/ninopira/weekly_ninopira/issues/4)
+- [20210412](https://github.com/ninopira/weekly_ninopira/issues/5)
 
